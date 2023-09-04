@@ -1,0 +1,14 @@
+body
+{
+    background-color:azure;
+}
+
+ul li
+{
+    list-style-type:square;
+}
+
+ol li
+{
+    list-style-type:lower-roman;
+}
